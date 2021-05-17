@@ -17,12 +17,14 @@
 </p>
 
 <p>
-  - <img width="20px" src="https://github.com/lucasllimati/lucasllimati/tree/main/image/star.svg" /> I’m currently working as Data Analyst in Brazil.<br>
-  - <img width="20px" src="https://github.com/lucasllimati/lucasllimati/tree/main/image/sprout.svg" /> I’m currently learning Python, Data Science, Machine Learning, AI and PowerBi.<br>
-  - <img width="20px" src="https://github.com/lucasllimati/lucasllimati/tree/main/image/messenger.svg" /> Ask me about: Tech, Films, Animes and League of Legends.<br>
-  - <img width="20px" src="https://github.com/lucasllimati/lucasllimati/tree/main/image/flash.svg" /> Technologies: Python, HTML, CSS, PowerBi and Excel.<br>
-  - <img width="20px" src="https://github.com/lucasllimati/lucasllimati/tree/main/image/console.svg" /> Gamer and Dog lover.<br>
-</p>   
+  - <img width="20px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/star.svg" /> I’m currently working as Data Analyst in Brazil.<br>
+  - <img width="20px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/sprout.svg" /> I’m currently learning Python, Data Science, Machine Learning, AI and PowerBi.<br>
+  - <img width="20px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/messenger.svg" /> Ask me about: Tech, Films, Animes and League of Legends.<br>
+  - <img width="20px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/flash.svg" /> Technologies: Python, HTML, CSS, PowerBi and Excel.<br>
+  - <img width="20px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/console.svg" /> Gamer and Dog lover.<br>
+</p>
+  
+<br><br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marivaldotorres/"><img align="left" alt="Junior Torres | Linkedin" width="24px"
@@ -32,6 +34,7 @@
   <a href="mailto:juniortorres.mth@gmail.com"><img align="left" alt="Junior Torres | Gmail" width="26px"
                                                    src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/gmail.svg" /></a>
 </p>
+
 <br><br>
 
 <a href="https://github.com/lucasllimati">
