@@ -12,7 +12,8 @@
 </p>
 
 <p>
-  <img align="left" width="400px" src="https://media.giphy.com/media/JkVnfE54QdOMQBxmHg/giphy.gif"/>
+  <!-- <img align="left" width="400px" src="https://media.giphy.com/media/JkVnfE54QdOMQBxmHg/giphy.gif"/> -->
+  <img align="center"width="400px"src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 </p>
 
 <p>
@@ -41,4 +42,4 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasllimati&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 <br><br><br>
-<img align="center"width="400px"src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
+
