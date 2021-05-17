@@ -8,7 +8,8 @@
 
 <p><b>"#NeverStopLearning"</b><p>
 <p>
-    I'm <b>Lucas Lima</b> I work as a <b>Data Analyst</b> and I am passionate about learning about the new ones. I have a degree in Information Systems from the <a href="https://www.pucminas.br/"><b>Pontifical Catholic University of Minas Gerais (PUC Minas)</b></a>, Brazil.
+    I'm <b>Lucas Lima</b> I work as a <b>Data Analyst</b> and I am passionate about learning about the new ones. I have a degree in Information Systems from the <a href="https://www.pucminas.br/"><b>Pontifical Catholic University of Minas Gerais (PUC Minas)</b></a>, Brazil.<br>
+    I'm an enthusiast in the field of <b>data science</b> and <b>development</b>.<br>
 </p>
 
 <p>
@@ -17,22 +18,20 @@
 </p>
 
 <p>
-  - <img width="20px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/star.svg" /> I’m currently working as Data Analyst in Brazil.<br>
-  - <img width="20px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/sprout.svg" /> I’m currently learning Python, Data Science, Machine Learning, AI and PowerBi.<br>
-  - <img width="20px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/messenger.svg" /> Ask me about: Tech, Films, Animes and League of Legends.<br>
-  - <img width="20px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/flash.svg" /> Technologies: Python, HTML, CSS, PowerBi and Excel.<br>
-  - <img width="20px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/console.svg" /> Gamer and Dog lover.<br>
+  - <img width="20px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/star.svg" /> I'm currently learning Python, R, DAX, UX Design ...<br>
+  - <img width="20px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/flash.svg" /> Technologies: Python, HTML, CSS, Power BI, SQL, Excel.<br>
+  - <img width="20px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/console.svg" /> I'm Gamer.<br>
 </p>
   
 <br><br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marivaldotorres/"><img align="left" alt="Junior Torres | Linkedin" width="24px"
-                                                              src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/linkedin.svg" /></a>
-  <a href="https://www.instagram.com/callmejuniorr/"><img align="left" alt="Junior Torres | Instagram" width="24px"
-                                                          src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/instagram.svg" /></a>
-  <a href="mailto:juniortorres.mth@gmail.com"><img align="left" alt="Junior Torres | Gmail" width="26px"
-                                                   src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/gmail.svg" /></a>
+  <a href="https://www.linkedin.com/in/lucasllimati/"><img align="left" alt="Lucas Lima | Linkedin" width="24px"
+                                                              src="https://github.com/lucasllimati/lucasllimati/blob/main/image/linkedin.svg" /></a>
+  <a href="https://www.instagram.com/olukaslima_"><img align="left" alt="Lucas Lima | Instagram" width="24px"
+                                                          src="https://github.com/lucasllimati/lucasllimati/blob/main/image/instagram.svg" /></a>
+  <!-- <a href="mailto:juniortorres.mth@gmail.com"><img align="left" alt="Lucas Lima | Gmail" width="26px"
+                                                   src="https://github.com/lucasllimati/lucasllimati/blob/main/image/gmail.svg" /></a> -->
 </p>
 
 <br><br>
