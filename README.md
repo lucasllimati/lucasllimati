@@ -17,6 +17,8 @@
   <img align="left"width="400px"src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 </p>
 
+<br><br>
+
 <p>
   - <img width="20px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/star.svg" /> I'm currently learning Python, R, DAX, UX Design ...<br>
   - <img width="20px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/flash.svg" /> Technologies: Python, HTML, CSS, Power BI, SQL, Excel.<br>
