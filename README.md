@@ -20,9 +20,9 @@
 <br><br>
 
 <p>
-  - <img width="20px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/books.svg" /> I'm currently learning Python, R, DAX, UX Design ...<br>
-  - <img width="20px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/dashboard.svg" /> Technologies: Python, HTML, CSS, Power BI, SQL, Excel.<br>
-  - <img width="20px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/player.svg" /> I'm Gamer.<br>
+  - <img width="40px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/books.svg" /> I'm currently learning Python, R, DAX, UX Design ...<br>
+  - <img width="40px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/dashboard.svg" /> Technologies: Python, HTML, CSS, Power BI, SQL, Excel.<br>
+  - <img width="40px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/player.svg" /> I'm Gamer.<br>
 </p>
   
 <br><br>
