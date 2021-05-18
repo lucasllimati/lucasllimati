@@ -1,7 +1,7 @@
 # Lucas Lima &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lucasllimati" alt="lucasllimati" /> </p>
 
-<img src="https://github.com/lucasllimati/lucasllimati/blob/main/image/dashboard.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/lucasllimati/lucasllimati/blob/main/image/foto1.png" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left">
  
 ## Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
@@ -17,7 +17,7 @@
   <img align="left"width="400px"src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 </p>
 
-<br><br>
+<br><br><br>
 
 <p>
   <!-- - <img width="30px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/books.svg" /> I'm currently learning Python, R, DAX, UX Design ...<br>
