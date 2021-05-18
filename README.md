@@ -1,8 +1,8 @@
 # Lucas Lima &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lucasllimati" alt="lucasllimati" /> </p>
 
-<img src="https://github.com/lucasllimati/lucasllimati/blob/main/image/foto1.png" min-width="400px" max-width="400px" width="400px" align="right">
-<p align="left">
+<!-- <img src="https://github.com/lucasllimati/lucasllimati/blob/main/image/foto1.png" min-width="400px" max-width="400px" width="400px" align="right">
+<p align="left"> -->
  
 ## Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
