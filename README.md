@@ -1,7 +1,7 @@
 # Lucas Lima &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lucasllimati" alt="lucasllimati" /> </p>
 
-<img src="https://github.com/lucasllimati/lucasllimati/blob/master/image/dashboard.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/lucasllimati/lucasllimati/blob/main/image/dashboard.png" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left">
  
 ## Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
@@ -35,10 +35,6 @@
                                                               src="https://github.com/lucasllimati/lucasllimati/blob/main/image/linkedin-in.svg" /></a>
   <a href="https://www.instagram.com/olukaslima_"><img align="left" alt="Lucas Lima | Instagram" width="24px"
                                                           src="https://github.com/lucasllimati/lucasllimati/blob/main/image/instagram.svg" /></a>
-  <a href="https://linktr.ee/lucasllimati"><img align="left" alt="Lucas Lima | Linktr.ee" width="24px"
-                                                          src="https://github.com/lucasllimati/lucasllimati/blob/main/image/linktree.svg" /></a>
-  <a href="https://linktr.ee/lucasllimati"><img align="left" alt="Lucas Lima | Linktr.ee" width="24px"
-                                                          src="https://github.com/lucasllimati/lucasllimati/blob/main/image/linktree1.svg" /></a>
   <a href="https://www.notion.so/Lucas-Louren-o-de-Lima-9b861c29195143f0a522968c03baddc0"><img align="left" alt="Lucas Lima | Notion" width="24px"
                                                           src="https://github.com/lucasllimati/lucasllimati/blob/main/image/notion.svg" /></a>
   <!-- <a href="mailto:juniortorres.mth@gmail.com"><img align="left" alt="Lucas Lima | Gmail" width="26px"
