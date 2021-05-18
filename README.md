@@ -32,9 +32,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasllimati/"><img align="left" alt="Lucas Lima | Linkedin" width="24px"
-                                                              src="https://github.com/lucasllimati/lucasllimati/blob/main/image/linkedin.svg" /></a>
+                                                              src="https://github.com/lucasllimati/lucasllimati/blob/main/image/linkedin-in.svg" /></a>
   <a href="https://www.instagram.com/olukaslima_"><img align="left" alt="Lucas Lima | Instagram" width="24px"
-                                                          src="https://github.com/lucasllimati/lucasllimati/blob/main/image/instagram.svg" /></a>
+                                                          src="https://github.com/lucasllimati/lucasllimati/blob/main/image/instagram-1.svg" /></a>
+  <a href="https://linktr.ee/lucasllimati"><img align="left" alt="Lucas Lima | Linktr.ee" width="24px"
+                                                          src="https://github.com/lucasllimati/lucasllimati/blob/main/image/linktree.svg" /></a>
+  <a href="https://www.notion.so/Lucas-Louren-o-de-Lima-9b861c29195143f0a522968c03baddc0"><img align="left" alt="Lucas Lima | Notion" width="24px"
+                                                          src="https://github.com/lucasllimati/lucasllimati/blob/main/image/notion.svg" /></a>
   <!-- <a href="mailto:juniortorres.mth@gmail.com"><img align="left" alt="Lucas Lima | Gmail" width="26px"
                                                    src="https://github.com/lucasllimati/lucasllimati/blob/main/image/gmail.svg" /></a> -->
 </p>
