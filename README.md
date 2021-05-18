@@ -28,7 +28,7 @@
   - 🕹️ I'm Gamer.<br>
 </p>
   
-<br><br>
+<br><br><br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasllimati/"><img align="left" alt="Lucas Lima | Linkedin" width="24px"
