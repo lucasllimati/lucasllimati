@@ -26,6 +26,7 @@
   - 📚 I'm currently learning Python, R, DAX, UX Design ...<br>
   - 👨‍💻 Technologies: Python, HTML, CSS, Power BI, SQL, Excel.<br>
   - 🕹️ I'm Gamer.<br>
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 </p>
   
 <br><br>
