@@ -43,7 +43,7 @@
 <br><br><br>
 
 <a href="https://github.com/lucasllimati">
-  <img height="center" src="https://github-readme-stats.vercel.app/api?username=lucasllimati&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/>
+  <img height="center" src="https://github-readme-stats.vercel.app/api?username=lucasllimati&show_icons=true&theme=tokyonight" alt="Shubhamdeep's github stats"/>
 </a>
 
 
