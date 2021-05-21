@@ -34,7 +34,7 @@
   <a href="https://www.notion.so/Lucas-Louren-o-de-Lima-9b861c29195143f0a522968c03baddc0"><img align="left" alt="Lucas Lima | Notion" width="24px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/notion.svg" /></a>
 </p>
 
-<br><br><br><br><br>
+<br><br>
 
 <a href="https://github.com/lucasllimati">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasllimati&layout=compact&langs_count=16&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -49,4 +49,4 @@
 
 <!-- <a href="https://github.com/lucasllimati">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasllimati&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/>
-</a> --> -->
+</a> -->
