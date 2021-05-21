@@ -36,30 +36,24 @@
 
 <br><br><br>
 
+</p>
+ <a href="https://github.com/lucasllimati">
+   <img height="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasllimati&layout=compact&langs_count=16&theme=tokyonight&include_all_commits=true&count_private=true" />
+ </a>
+</p>
+
+<p>
+ <a href="https://github.com/lucasllimati">
+   <img height="center" src="https://github-readme-stats.vercel.app/api?username=lucasllimati&show_icons=true&theme=tokyonight" alt="Shubhamdeep's github stats"/>
+ </a>
+</p>
 <!-- <a href="https://github.com/lucasllimati">
-  <img height="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasllimati&layout=compact&langs_count=16&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasllimati&layout=compact&langs_count=16&theme=tokyonight&hide_langs_below=1" />
 </a>
 
 <br><br><br>
 
 <a href="https://github.com/lucasllimati">
-  <img height="center" src="https://github-readme-stats.vercel.app/api?username=lucasllimati&show_icons=true&theme=tokyonight" alt="Shubhamdeep's github stats"/>
-</a> -->
-
-<!-- <a href="https://github.com/lucasllimati">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasllimati&layout=compact&langs_count=16&theme=tokyonight&hide_langs_below=1" />
-</a>
-
-<br><br><br><br><br><br>
-
-<a href="https://github.com/lucasllimati">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasllimati&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/>
 </a> -->
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasllimati&layout=compact&langs_count=16&theme=tokyonight&hide_langs_below=1" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasllimati&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/>
-</p>
