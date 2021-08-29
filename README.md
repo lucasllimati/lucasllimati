@@ -17,12 +17,6 @@
 
 <br><br>
 
-<div>
-  <a href="https://github.com/lucasllimati">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucasllimati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasllimati&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
-
 <p>
   <img align="left"width="400px"src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 </p>
@@ -47,7 +41,14 @@
  </p>
 </div>
 
-<!-- <br><br><br><br> -->
+<br><br><br><br>
+
+<div>
+  <a href="https://github.com/lucasllimati">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucasllimati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasllimati&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
+
 
 <!-- <a href="https://github.com/lucasllimati">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasllimati&layout=compact&langs_count=16&theme=tokyonight&hide_langs_below=1" />
