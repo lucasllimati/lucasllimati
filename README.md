@@ -15,7 +15,7 @@
  </p>
 </div>
 
-<br><br><br><br>
+<br>
 
 <div>
   <a href="https://github.com/lucasllimati">
@@ -29,7 +29,7 @@
   <img align="left"width="400px"src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 </p>
 
-<br><br><br>
+<br>
 
 <div>
  <p>
@@ -39,8 +39,6 @@
  </p>
 </div>
   
-<br><br>
-
 <div>
  <p align="center">
    <a href="https://www.linkedin.com/in/lucasllimati/"><img align="left" alt="Lucas Lima | Linkedin" width="24px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/linkedin-in.svg" /></a>
