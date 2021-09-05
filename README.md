@@ -15,21 +15,17 @@
  </p>
 </div>
 
-<br>
-
 <div>
   <a href="https://github.com/lucasllimati"></a>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucasllimati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasllimati&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-<br><br>
+<br>
 
 <p>
   <img align="left"width="400px"src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 </p>
-
-<br>
 
 <div>
  <p>
@@ -46,9 +42,6 @@
    <a href="https://glory-jay-53e.notion.site/Lucas-Louren-o-de-Lima-9b861c29195143f0a522968c03baddc0"><img align="left" alt="Lucas Lima | Notion" width="24px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/notion.svg" /></a>
  </p>
 </div>
-
-
-
 
 <!-- <a href="https://github.com/lucasllimati">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasllimati&layout=compact&langs_count=16&theme=tokyonight&hide_langs_below=1" />
