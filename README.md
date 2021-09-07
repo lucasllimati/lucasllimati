@@ -23,12 +23,6 @@
 
 <br>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Logo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
 <p>
   <img align="left"width="400px"src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 </p>
@@ -48,6 +42,13 @@
    <a href="https://glory-jay-53e.notion.site/Lucas-Louren-o-de-Lima-9b861c29195143f0a522968c03baddc0"><img align="left" alt="Lucas Lima | Notion" width="24px" src="https://github.com/lucasllimati/lucasllimati/blob/main/image/notion.svg" /></a>
  </p>
 </div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Logo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
 
 <!-- <a href="https://github.com/lucasllimati">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasllimati&layout=compact&langs_count=16&theme=tokyonight&hide_langs_below=1" />
