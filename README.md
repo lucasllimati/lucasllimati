@@ -9,14 +9,15 @@
 <div>
  <p>
      I'm <b>Lucas Lima</b> I work as a <b>Data Analyst</b> and I am passionate about learning about the new ones. I have a degree in Information Systems from the <a href="https://www.pucminas.br/"><b>Pontifical Catholic University of Minas Gerais (PUC Minas)</b></a>, Brazil.<br>
-     I'm an enthusiast in the field of <b>data science</b> and <b>development</b>.<br>
+     I'm an enthusiast in the field of <b>data science</b> and <b>development</b>.
+     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"><br>
      - 📚 I'm currently learning Python, R, DAX, UX Design ...<br>
      - 👨‍💻 Technologies: Python, HTML, CSS, Power BI, SQL, Excel.<br>
      - 🕹️ I'm Gamer.<br>
-     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
-     <br>
  </p>
 </div>
+
+<br>
 
 <div>
   <a href="https://github.com/lucasllimati"></a>
@@ -64,7 +65,6 @@
  <img align="center" alt="Logo-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  <img align="center" alt="Logo-SqlServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
-
 
 <!-- <a href="https://github.com/lucasllimati">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasllimati&layout=compact&langs_count=16&theme=tokyonight&hide_langs_below=1" />
