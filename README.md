@@ -9,7 +9,7 @@
 <div>
  <p>
      I'm <b>Lucas Lima</b> I work as a <b>Data Analyst</b> and I am passionate about learning about the new ones. I have a degree in Information Systems from the <a href="https://www.pucminas.br/"><b>Pontifical Catholic University of Minas Gerais (PUC Minas)</b></a>, Brazil.<br>
-     I'm an enthusiast in the field of <b>data science</b> and <b>development</b>.
+     I'm an enthusiast in the field of <b>data science</b> and <b>development</b>.<br>
      - 📚 I'm currently learning Python, R, DAX, UX Design ...<br>
      - 👨‍💻 Technologies: Python, HTML, CSS, Power BI, SQL, Excel.<br>
      - 🕹️ I'm Gamer.<br>
