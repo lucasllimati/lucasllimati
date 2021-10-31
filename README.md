@@ -69,6 +69,11 @@
   <img height="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasllimati&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasllimati&show_icons=true&theme=tokyonight" alt="lucasllimati's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasllimati&layout=compact&theme=tokyonight" alt="lucasllimati's most languages"/>
+</p>
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
