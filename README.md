@@ -6,9 +6,13 @@
 
 <div>
  <p>
-     I'm <b>Lucas Lima</b> I work as a <b>Data Analyst</b> and I'm passionate about learning about new technologies. I have a degree in Information Systems from the <a href="https://www.pucminas.br/"><b>Pontifical Catholic University of Minas Gerais (PUC Minas)</b></a>, Brazil.
-     I'm an enthusiast in the field of <b>data science</b> and <b>development</b>.
-     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"/></p>
+I'm <b>Lucas Lima</b> I work as a <b>Data Analyst</b> and I'm passionate about learning about new technologies. I have a degree in Information Systems from the <a href="https://www.pucminas.br/"><b>Pontifical Catholic University of Minas Gerais (PUC Minas)</b></a>, Brazil.
+I'm an enthusiast in the field of <b>data science</b> and <b>development</b>.
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"/></p>
+
+<p>
+  <img align="right" height="200em" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
+</p>
 
 - 📚 I'm currently learning Python, R, DAX, UX Design.
 
@@ -18,10 +22,6 @@
 
 </p>
 </div>
-
-<p>
-  <img align="right" height="200em" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
-</p>
 
 <!-- <div>
  <p align="center">
