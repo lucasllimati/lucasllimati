@@ -11,10 +11,8 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"/></p>
 
   <p>
-    <img align="right" height="200em" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
+    <img align="right" height="120em" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
   </p>
-
-<br><br>
 
 - 📚 I'm currently learning Python, R, DAX, UX Design.
 
