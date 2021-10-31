@@ -62,7 +62,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<img align="right" height="500em" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
+<img align="right" height="350em" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasllimati&show_icons=true&theme=tokyonight" alt="lucasllimati's stats"/>
