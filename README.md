@@ -32,7 +32,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Logo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -51,7 +51,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&labelColor=E4405F&logo=Instagram&logoColor=white&link=https://www.instagram.com/olukaslima_)](https://www.instagram.com/olukaslima_)
 [![Linktree Badge](https://img.shields.io/badge/-Linktree-39E09B?style=flat-square&labelColor=39E09B&logo=Linktree&logoColor=white&link=https://linktr.ee/lucasllimati)](https://linktr.ee/lucasllimati)
 [![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&labelColor=000000&logo=Linktree&logoColor=white&link=https://www.notion.so/Lucas-Louren-o-de-Lima-9b861c29195143f0a522968c03baddc0)](https://glory-jay-53e.notion.site/Lucas-Louren-o-de-Lima-9b861c29195143f0a522968c03baddc0)
-<br>
 
 <!-- <a href="https://github.com/lucasllimati">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasllimati&layout=compact&langs_count=16&theme=tokyonight&hide_langs_below=1" />
@@ -62,7 +61,6 @@
 </a> -->
 
 <!-- <br><br><br><br><br><br> -->
-<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
