@@ -6,14 +6,17 @@
 
 <div>
  <p>
-     I'm <b>Lucas Lima</b> I work as a <b>Data Analyst</b> and I'm passionate about learning about new technologies. I have a degree in Information Systems from the <a href="https://www.pucminas.br/"><b>Pontifical Catholic University of Minas Gerais (PUC Minas)</b></a>, Brazil.<br>
+     I'm <b>Lucas Lima</b> I work as a <b>Data Analyst</b> and I'm passionate about learning about new technologies. I have a degree in Information Systems from the <a href="https://www.pucminas.br/"><b>Pontifical Catholic University of Minas Gerais (PUC Minas)</b></a>, Brazil.
      I'm an enthusiast in the field of <b>data science</b> and <b>development</b>.
      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"/></p>
 
-     - 📚 I'm currently learning Python, R, DAX, UX Design.
-     - 👨‍💻 Technologies: Python, HTML, CSS, Power BI, SQL, Excel.
-     - 🕹️ I'm Gamer.
+- 📚 I'm currently learning Python, R, DAX, UX Design.
 
+- 👨‍💻 Technologies: Python, HTML, CSS, Power BI, SQL, Excel.
+
+- 🕹️ I'm Gamer.
+
+</p>
 </div>
 
 <p>
@@ -59,26 +62,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasllimati&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/>
 </a> -->
 
-<br><br><br><br>
+<!-- <br><br><br><br><br><br> -->
 
 ## ⚙️ &nbsp;GitHub Analytics
-
-<div>
-  <a href="https://github.com/lucasllimati"></a>
-  <img height="530em" src="https://github-readme-stats.vercel.app/api?username=lucasllimati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasllimati&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasllimati&show_icons=true&theme=tokyonight" alt="lucasllimati's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasllimati&layout=compact&theme=tokyonight" alt="lucasllimati's most languages"/>
-</p>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 
 ![Snake animation](https://github.com/lucasllimati/lucasllimati/blob/output/github-contribution-grid-snake.svg)
