@@ -52,7 +52,7 @@
 
 <br><br><br>
 
-<img align="right" height="590em" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
+<img align="right" height="200em" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 
 <!-- <a href="https://github.com/lucasllimati">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasllimati&layout=compact&langs_count=16&theme=tokyonight&hide_langs_below=1" />
