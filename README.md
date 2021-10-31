@@ -50,10 +50,6 @@
 [![Linktree Badge](https://img.shields.io/badge/-Linktree-39E09B?style=flat-square&labelColor=39E09B&logo=Linktree&logoColor=white&link=https://linktr.ee/lucasllimati)](https://linktr.ee/lucasllimati)
 [![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&labelColor=000000&logo=Linktree&logoColor=white&link=https://www.notion.so/Lucas-Louren-o-de-Lima-9b861c29195143f0a522968c03baddc0)](https://glory-jay-53e.notion.site/Lucas-Louren-o-de-Lima-9b861c29195143f0a522968c03baddc0)
 
-<br><br><br>
-
-<img align="right" height="200em" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
-
 <!-- <a href="https://github.com/lucasllimati">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasllimati&layout=compact&langs_count=16&theme=tokyonight&hide_langs_below=1" />
 </a>
@@ -65,6 +61,8 @@
 <!-- <br><br><br><br><br><br> -->
 
 ## ⚙️ &nbsp;GitHub Analytics
+
+<img align="right" height="200em" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasllimati&show_icons=true&theme=tokyonight" alt="lucasllimati's stats"/>
