@@ -20,7 +20,7 @@
 </div>
 
 <p>
-  <img align="left"width="400px"src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
+  <img align="right" height="200em" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 </p>
 
 <!-- <div>
@@ -62,7 +62,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasllimati&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/>
 </a> -->
 
-<br><br><br><br><br><br>
+<!-- <br><br><br><br><br><br> -->
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
