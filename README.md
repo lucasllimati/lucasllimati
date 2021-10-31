@@ -12,10 +12,6 @@
    <p>I'm an enthusiast in the field of <b>data science</b> and <b>development</b>.
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"/></p>
 
-  <p>
-    <img align="right" height="120em" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
-  </p>
-
 - 📚 I'm currently learning Python, R, DAX, UX Design.
 
 - 👨‍💻 Technologies: Python, HTML, CSS, Power BI, SQL, Excel.
@@ -53,6 +49,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&labelColor=E4405F&logo=Instagram&logoColor=white&link=https://www.instagram.com/olukaslima_)](https://www.instagram.com/olukaslima_)
 [![Linktree Badge](https://img.shields.io/badge/-Linktree-39E09B?style=flat-square&labelColor=39E09B&logo=Linktree&logoColor=white&link=https://linktr.ee/lucasllimati)](https://linktr.ee/lucasllimati)
 [![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&labelColor=000000&logo=Linktree&logoColor=white&link=https://www.notion.so/Lucas-Louren-o-de-Lima-9b861c29195143f0a522968c03baddc0)](https://glory-jay-53e.notion.site/Lucas-Louren-o-de-Lima-9b861c29195143f0a522968c03baddc0)
+
+  <p>
+    <img align="right" height="120em" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
+  </p>
 
 <!-- <a href="https://github.com/lucasllimati">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasllimati&layout=compact&langs_count=16&theme=tokyonight&hide_langs_below=1" />
