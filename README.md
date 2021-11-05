@@ -65,8 +65,8 @@
 <img align="right" height="215em" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasllimati&show_icons=true&theme=tokyonight" alt="lucasllimati's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasllimati&layout=compact&theme=tokyonight" alt="lucasllimati's most languages"/>
+<img width="510em" src="https://github-readme-stats.vercel.app/api?username=lucasllimati&show_icons=true&theme=tokyonight" alt="lucasllimati's stats"/>
+<img width="510em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasllimati&layout=compact&theme=tokyonight" alt="lucasllimati's most languages"/>
 </p>
 
 ![Snake animation](https://github.com/lucasllimati/lucasllimati/blob/output/github-contribution-grid-snake.svg)
