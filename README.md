@@ -1,8 +1,8 @@
 <img align="right" height="600em" src="https://raw.githubusercontent.com/gist/lucasllimati/397f03b3bffe4a21772130afccbe0240/raw/ec5f3ff770ec4df18fecd52dc3de1433d81b9d79/cardgit.svg"/>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10" height="10">, I'm Lucas Lima. Welcome to my GitHub!&nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="10" height="10"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="10" height="10"></h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, I'm Lucas Lima. Welcome to my GitHub!&nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30px" height="30px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px" height="30px"></h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lucasllimati" alt="lucasllimati" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lucasllimati" alt="lucasllimati"/> </p>
  
 <p><b>"#NeverStopLearning"</b><p>
 
@@ -10,7 +10,7 @@
  <p>
   I'm <b>Lucas Lima</b> I work as a <b>Data Analyst</b> and I'm passionate about learning about new technologies. I have a degree in Information Systems from the <a href="https://www.pucminas.br/"><b>Pontifical Catholic University of Minas Gerais (PUC Minas)</b></a>, Brazil.</p>
    <p>I'm an enthusiast in the field of <b>data science</b> and <b>development</b>.
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="10" height="10"/></p>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" height="30px"/></p>
 
 - 📚 I'm currently learning Python, R, DAX, UX Design.
 
