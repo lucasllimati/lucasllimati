@@ -8,7 +8,7 @@
 
 <div>
  <p>
-  I'm <b>Lucas Lima</b> I work as a <b>Data Analyst</b> and I'm passionate about learning about new technologies. I have a degree in Information Systems from the <a href="https://www.pucminas.br/"><b>Pontifical Catholic University of Minas Gerais (PUC Minas)</b></a>, Brazil.</p>
+  I'm <b>Lucas Lima</b>, I work as a </b>Data Engineer</b> at <a href="https://www.iteris.com.br/"><b>Iteris - a software company</b></a>. I am passionate about learning about new technologies. I have a degree in Information Systems from the <a href="https://www.pucminas.br/"><b>Pontifical Catholic University of Minas Gerais (PUC Minas)</b></a>, Brazil.</p>
    <p>I'm an enthusiast in the field of <b>data science</b> and <b>development</b>.
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" height="30px"/></p>
 
