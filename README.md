@@ -1,6 +1,6 @@
 <img align="right" height="600em" src="https://raw.githubusercontent.com/gist/lucasllimati/397f03b3bffe4a21772130afccbe0240/raw/ec5f3ff770ec4df18fecd52dc3de1433d81b9d79/cardgit.svg"/>
 
-<h1 align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px">, I'm Lucas Lima. Welcome to my GitHub!&nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30px" height="30px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px" height="30px"></h1>
+<h1 align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px" height="30px">, I'm Lucas Lima. Welcome to my GitHub!&nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30px" height="30px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px" height="30px"></h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lucasllimati" alt="lucasllimati"/> </p>
  
